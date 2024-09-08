@@ -6,7 +6,7 @@
     "name": "Melty, Inc"
   },
   "license": "MIT",
-  "main": "./out/main",
+  "main": "./out/main.js",
   "private": true,
   "scripts": {
     "dist": "electron-builder",
